@@ -6,7 +6,22 @@ html {
   margin: 0;
   padding: 0;
 }
+
 body {
   margin: 0;
   padding: 0;
+}
+
+.sidebar-drawer {
+
+  .ant-drawer-header {
+    background-color: #001529;
+    .ant-drawer-title{
+      color: #fff;
+    }
+  }
+
+  .ant-drawer-body {
+    padding: 0;
+  }
 }
